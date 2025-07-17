@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "launcher.jar",
+      "url": "https://raw.githubusercontent.com/Hower0913/Hower-launcher-update/main/files/launcher.jar",
+      "checksum": "0000000000000000000000000000000000000000"
+    }
+  ]
+}
